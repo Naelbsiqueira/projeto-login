@@ -15,3 +15,8 @@ Tablet:768 até 922px;
 Desktop:922px até 1200px.
 ---------------------------------
 Grande
+*/
+*{
+    margin:0px;
+    padding: 0px;
+}
