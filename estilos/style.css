@@ -58,7 +58,7 @@ section#login > div#imagem{
 }
 section#login > div#form{
     display: block;
-    padding: 9px;
+    padding: 10px;
 }
 div#form > h1{
     text-align: center;
@@ -104,13 +104,14 @@ div.campo >input:focus-within{
 form > input[type=submit]{
     display: block;
     font-size: 1em;
-    width: 80%;
+    width: 100%;
     height: 30px;
     background-color:#49a09d;
     color: white;
     margin: auto;
     border: none;
     margin-top: 5px;
+    
     border-radius: 8px;
    
 }
@@ -124,7 +125,7 @@ form > a.botao{
     margin: auto;
     text-align: center;
     font-size: 1em;
-    width: 80%;
+    width: 100%;
     height: 30px;
     padding-bottom: 30px;
     background-color:#49a09d;
