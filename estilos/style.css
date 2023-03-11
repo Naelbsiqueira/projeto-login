@@ -71,10 +71,12 @@ div#form >p{
 form >div.campo {
     background-image:linear-gradient(to left,#5f2c82,#245755);
     display: block;
+    border: none;
     width: 100%;
-    height: 40px;
+    height: 39px;
     margin: 5px 0px;
     border-radius: 8px;
+    
 }
 div.campo > span{
     color: white;
@@ -88,7 +90,9 @@ div.campo > input{
     font-size: 0.8em;
     height: 100%;
     border-radius: 8px;
-    transform: translateY(-7px);
+    transform: translateY(-8px);
+    border: none;
+    border:0px;
 }
 div.campo> label{
     display: none;
