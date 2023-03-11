@@ -54,8 +54,17 @@ section#login > div#imagem{
     background-size: cover;
     background-position: center center;
     height:200px;
+    
 }
 section#login > div#form{
     display: block;
-    padding: 10px;
+    padding: 9px;
+}
+div#form > h1{
+    text-align: center;
+    margin: 10px;
+}
+div#form >p{
+    font-size: 0.8em;
+    text-align: justify;
 }
